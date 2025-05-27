@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
                 </div>
             </div>
 
-
+<p className="mt-4 text-foreground max-w-lg mx-auto">yassine bekkouch</p>
 
 
 
